@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 373912b0b333d9c4f81ada6bed82558f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - magicCircle: {fileID: 4404775978926576720, guid: 77220740e784c564ea029bd3d3126e07, type: 3}
+  - gameObject: {fileID: 2245463690944619491, guid: a434b679391004d4da6a9d2c9ee89def, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
